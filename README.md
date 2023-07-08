@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**SvetlanaGaisinovich/SvetlanaGaisinovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Svetlana and I am a junior specialist in DATA ANALYTICS. My previous work experience is related to the civil service in the field of education.
 
-Here are some ideas to get you started:
+I have completed a 7-month education program “Data analyst” from Yandex.Practikum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for a job or internship, open to new challenges and interesting tasks.
+
+Languages and Tools:
+  - Python (pandas, numpy, matplotlib, seaborn, skipy, plotly)   
+  - SQL    
+  - Tableau   
+  - Mathematical statistics  
+  - Product and marketing analytics  
+  - Hypothesis testing and statistical data analysis  
+  - A/B testing  
+
+Connect with me:
+
+gaysinovich79@bk.ru
+
+t.me//S_Gaisinovich
